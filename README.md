@@ -1,9 +1,3 @@
-**Name:**    Yogesh Prabhakar Budhalkar
-**Company:** CODTECH IT SOLUTIONS
-**ID:**      CT08DS344
-**Domain:**  Embedded Systems
-**Duration:** December to January 2025
-**Mentor:**   SRAVANI GOUNI
 
 # Voice Recognition System Using ESP32 and V3 Module
 
@@ -22,21 +16,12 @@ This project demonstrates a **voice recognition system** using the **ESP32 micro
 
 ---
 
-## 🚀 Getting Started
-
 ### 1. **Components Required**
 - **ESP32** board
 - **V3 Speech Recognition Module**
 - LED and 220Ω resistor
 - Jumper wires and breadboard
 - USB cable for programming the ESP32
-
-### 2. **Prerequisites**
-Ensure the following software/tools are installed:
-- **Arduino IDE** (with ESP32 board support)
-- **V3 Speech Module configuration software** (for command training)
-- USB-to-TTL converter (optional, for configuring the module)
-
 ---
 
 ## ⚡ How It Works
